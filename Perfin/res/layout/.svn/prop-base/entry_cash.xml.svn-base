@@ -1,0 +1,10 @@
+K 13
+svn:mime-type
+V 10
+text/plain
+K 13
+svn:mergeinfo
+V 120
+/branches/LanList/Perfin/res/layout/entry_cash.xml:645-646
+/trunk/uespi/android/Perfin/res/layout/entry_cash.xml:624-631
+END

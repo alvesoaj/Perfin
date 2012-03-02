@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      android:versionCode="1"
+      android:versionName="1.0" package="br.com.perfin">
+    <uses-sdk android:minSdkVersion="8" />
+    <protected-broadcast></protected-broadcast>
+    <original-package></original-package>
+
+    <application android:label="@string/app_name" android:icon="@drawable/safe_icon">
+        <activity android:name=".view.PrincipalActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"></action>
+                <category android:name="android.intent.category.LAUNCHER"></category>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/gasto_label" android:name=".view.CartaoActivity"></activity>
+        <activity android:label="@string/gasto_label" android:name=".view.ChequeActivity"></activity>
+        <activity android:label="@string/gasto_label" android:name=".view.DinheiroActivity"></activity>
+        <activity android:label="@string/renda_label" android:name=".view.RendaActivity"></activity>
+        <activity android:theme="@android:style/Theme.NoTitleBar" android:name=".view.ListTab"></activity>
+        <activity android:name=".view.ListCartaoActivity"></activity>
+        <activity android:name=".view.ListChequeActivity"></activity>
+        <activity android:name=".view.ListDinheiroActivity"></activity>
+        <activity android:name=".view.ListRendaActivity"></activity>
+        <activity android:name=".view.ListAllActivity"></activity>
+        <activity android:label="@string/liquidacao_label" android:name=".view.Liquidacao"></activity>
+        <activity android:name=".view.LiquidarCartaoActivity"></activity>
+        <activity android:name=".view.LiquidarChequeActivity"></activity>
+    </application>
+</manifest>

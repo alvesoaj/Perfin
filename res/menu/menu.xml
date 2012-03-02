@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/adicionar"
+    	  android:icon="@drawable/ic_menu_add"
+          android:title="Adicionar" />
+    <item android:id="@+id/filtrar"
+    	  android:icon="@drawable/ic_menu_list"
+          android:title="Filtrar por Status" >
+          <!-- "file" submenu -->
+          <menu>
+              <item android:id="@+id/listar_all"
+          			android:title="Listar Todos" />
+    		  <item android:id="@+id/listar_pg"
+          			android:title="Listar Pagos" />
+    		  <item android:id="@+id/listar_npg"
+          			android:title="Listar Não Pagos" />
+          </menu>
+     </item>
+     <item android:id="@+id/filtrar_data"
+    	  android:icon="@drawable/ic_menu_list"
+          android:title="Filtrar por Data" >
+          <menu>
+              <item android:id="@+id/listar_all_data"
+          			android:title="Listar Todos" />
+    		  <item android:id="@+id/listar_data"
+          			android:title="Escolher Intervalo" />
+          </menu>
+     </item>
+    
+</menu>

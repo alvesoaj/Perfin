@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/688/trunk/uespi/android/Perfin/src/br/com/perfin/view
+END
+ChequeActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/687/trunk/uespi/android/Perfin/src/br/com/perfin/view/ChequeActivity.java
+END
+DinheiroActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/683/trunk/uespi/android/Perfin/src/br/com/perfin/view/DinheiroActivity.java
+END
+ListChequeActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/680/trunk/uespi/android/Perfin/src/br/com/perfin/view/ListChequeActivity.java
+END
+ListDinheiroActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/680/trunk/uespi/android/Perfin/src/br/com/perfin/view/ListDinheiroActivity.java
+END
+Liquidacao.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/680/trunk/uespi/android/Perfin/src/br/com/perfin/view/Liquidacao.java
+END
+LiquidarCartaoActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/680/trunk/uespi/android/Perfin/src/br/com/perfin/view/LiquidarCartaoActivity.java
+END
+ListRendaActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/680/trunk/uespi/android/Perfin/src/br/com/perfin/view/ListRendaActivity.java
+END
+RendaActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/683/trunk/uespi/android/Perfin/src/br/com/perfin/view/RendaActivity.java
+END
+PrincipalActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/683/trunk/uespi/android/Perfin/src/br/com/perfin/view/PrincipalActivity.java
+END
+LiquidarChequeActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/680/trunk/uespi/android/Perfin/src/br/com/perfin/view/LiquidarChequeActivity.java
+END
+CartaoActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/683/trunk/uespi/android/Perfin/src/br/com/perfin/view/CartaoActivity.java
+END
+ListCartaoActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/688/trunk/uespi/android/Perfin/src/br/com/perfin/view/ListCartaoActivity.java
+END
+ListTab.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/683/trunk/uespi/android/Perfin/src/br/com/perfin/view/ListTab.java
+END
+ListAllActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/688/trunk/uespi/android/Perfin/src/br/com/perfin/view/ListAllActivity.java
+END

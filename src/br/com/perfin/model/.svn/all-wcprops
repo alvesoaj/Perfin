@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/688/trunk/uespi/android/Perfin/src/br/com/perfin/model
+END
+Dinheiro.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/627/trunk/uespi/android/Perfin/src/br/com/perfin/model/Dinheiro.java
+END
+EntradaJoinAll.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/682/trunk/uespi/android/Perfin/src/br/com/perfin/model/EntradaJoinAll.java
+END
+EntradaJoinCartao.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/669/trunk/uespi/android/Perfin/src/br/com/perfin/model/EntradaJoinCartao.java
+END
+Cartao.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/688/trunk/uespi/android/Perfin/src/br/com/perfin/model/Cartao.java
+END
+Renda.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/627/trunk/uespi/android/Perfin/src/br/com/perfin/model/Renda.java
+END
+EntradaJoinRenda.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/669/trunk/uespi/android/Perfin/src/br/com/perfin/model/EntradaJoinRenda.java
+END
+Entrada.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/669/trunk/uespi/android/Perfin/src/br/com/perfin/model/Entrada.java
+END
+Categoria.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/623/trunk/uespi/android/Perfin/src/br/com/perfin/model/Categoria.java
+END
+EntradaJoinCheque.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/669/trunk/uespi/android/Perfin/src/br/com/perfin/model/EntradaJoinCheque.java
+END
+Cheque.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/669/trunk/uespi/android/Perfin/src/br/com/perfin/model/Cheque.java
+END
+EntradaJoinDinheiro.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/669/trunk/uespi/android/Perfin/src/br/com/perfin/model/EntradaJoinDinheiro.java
+END
